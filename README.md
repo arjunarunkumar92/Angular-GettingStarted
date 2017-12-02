@@ -7,7 +7,7 @@ Materials for the ["Angular: Getting Started"](http://bit.ly/Angular-GettingStar
 
 See the `README.md` file under each folder for details on installing and running the application.
 
-If you have any problems installing or running this code, please see the ["Angular: Getting Started Problem Solver"](http://blogs.msmvps.com/deborahk/angular-2-getting-started-problem-solver/)
+Adding something here:If you have any problems installing or running this code, please see the ["Angular: Getting Started Problem Solver"](http://blogs.msmvps.com/deborahk/angular-2-getting-started-problem-solver/)
 
 If that does not resolve your issue, please post to the [discussion board for the course](https://app.pluralsight.com/library/courses/angular-2-getting-started-update/discussion)
 
